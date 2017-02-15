@@ -24,3 +24,55 @@ body {
     width: 400px;
     float: left;
 }
+
+/***** ABOUT SECTION *****/
+
+#about .full-width {
+    padding: 80px 0;
+}
+
+#about h2 {
+    font-family: 'Lora', serif;
+    font-size: 36px;
+}
+ 
+#about p {
+    font-size: 21px;
+    color: #7f7f7f;
+    line-height: 40px;
+    padding-right: 50px;
+}
+
+/***** WORK SECTION *****/
+
+#work {
+	background-color: #f9ceb7;
+	text-align: center;
+}
+
+#work .full-width {
+    padding: 115px 0;
+}
+ 
+#work img {
+    padding-bottom: 30px;
+    /*border: 2px solid red;*/
+}
+
+#work h3 {
+    font-size: 24px; 
+    width: 175px;
+    margin: 0 auto;
+    /*border: 2px solid red;*/
+}
+ 
+#work p {
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    line-height: 30px; 
+    color: #2b2b2b;
+    padding: 0 35px;
+    /*border: 2px solid red;*/
+}
+
+/***** CONTACT SECTION *****/
